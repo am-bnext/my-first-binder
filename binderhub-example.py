@@ -5,4 +5,4 @@ for i in range(length):
     print(i**2)
 print("I'm done")
 
-print("would you like to go again?")
+print("This is not a very good ending")
