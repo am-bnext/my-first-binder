@@ -1,3 +1,5 @@
+import numpy as np
+
 length = 10
 
 print("Emergency fix: initiate count")
