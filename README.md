@@ -1,2 +1,2 @@
 # README
-This is an example project
+This is an example project to get a binder hub started
