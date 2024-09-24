@@ -1,2 +1,4 @@
 # README
-This is an example project to get a binder hub started
+This is an example project to get a binder hub started.
+
+It is for testing purposes only.
