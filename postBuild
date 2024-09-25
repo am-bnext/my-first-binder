@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+
+display r01c22f13p01-ch02t55.tiff
